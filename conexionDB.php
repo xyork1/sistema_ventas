@@ -1,5 +1,5 @@
 <?php
-// york darleis
+// york darleis sapo
 $host = 'localhost';
 $user = 'root';
 $password = '12345678';
