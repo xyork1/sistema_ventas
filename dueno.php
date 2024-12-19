@@ -9,7 +9,6 @@ require_once 'conexionDB.php';
 
 $fecha_consulta = isset($_GET['fecha']) ? $_GET['fecha'] : date('Y-m-d'); // Fecha actual por defecto
 ?>
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
